@@ -4,7 +4,7 @@
 
 <br>
 <p style="text-align: center" align="center">
-<a href="https://ibb.co/SP2G0VW"><img src="https://i.ibb.co/bPxDLNq/chiliz-hackathon.png" alt="chiliz-hackathon" border="0">
+<a href="https://ibb.co/SP2G0VW"><img src="https://i.ibb.co/bPxDLNq/chiliz-hackathon.png" alt="chiliz-hackathon" border="0"></a>
 <div align="center"> <strong> ✨ ChilizGPT 🔥 </strong> </p>
 </div>
 <br>
