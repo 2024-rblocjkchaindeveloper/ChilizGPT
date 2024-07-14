@@ -70,8 +70,8 @@ Developers want to build on Chiliz but lack an interactive way to quickly and ea
 
 I have built two versions of the ChilizGPT, both have the same functionalities but one chatbot fixes in the full viewport of the screen and the other one is the pop-up version, both have the same functionality and are built with the same APIs, these chatbots can-be integrated into anywhere either on the complete subdomain of official website or the docs website but with the popup version.
 
-- **[ChilizGPT Full Version CodeBase](./Chiliz-gpt/)**
-- **[ChilizGPT Popup Version CodeBase](./Chiliz-gpt-popup/)**
+- **[ChilizGPT Full Version CodeBase](./chilizgpt/)**
+- **[ChilizGPT Popup Version CodeBase](./chilizgpt-popup/)**
 
 ### Live Hosted web app of ChilizGPT
 
